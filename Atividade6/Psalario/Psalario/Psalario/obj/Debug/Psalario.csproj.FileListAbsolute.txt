@@ -1,0 +1,10 @@
+C:\Users\gatin\source\repos\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\gatin\source\repos\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\gatin\source\repos\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.csproj.AssemblyReference.cache
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\gatin\source\repos\Psalario\Psalario\obj\Debug\Psalario.pdb
