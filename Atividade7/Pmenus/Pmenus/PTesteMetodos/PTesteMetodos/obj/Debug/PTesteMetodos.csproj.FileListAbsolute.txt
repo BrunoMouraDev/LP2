@@ -1,0 +1,13 @@
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.Cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csprojResolveAssemblyReference.cache

@@ -1,0 +1,56 @@
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.Cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+C:\Users\Lucas\Downloads\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\Nataly\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\Bruno Ap Moura\Desktop\PTesteMetodos2\PTesteMetodos2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
